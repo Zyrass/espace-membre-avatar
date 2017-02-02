@@ -27,7 +27,7 @@ session_start();
                             <p>Les couleurs sont modifiés ainsi qu'une adaptation du code pour que ce soit compatible avec bootstrap 3.</p>
 
                             <div class="alert alert-info">
-                                <p>A savoir que de base Steven utilise la version 4.0.0 de bootstrap qui est au jour d'aujourd'hui encore en Alpha mais le numéro de version : 4.0.6</p>
+                                <p>A savoir que de base Steven utilise la version 4.0.0 de bootstrap qui est au jour d'aujourd'hui bootstrap 4 reste encore en Alpha. (version : 4.0.6). Steven Sil propose une formation sur bootstrap 4 que je recommande.</p>
                             </div>
                             <hr>
                             <small>si cette formation vous intéresse voici le lien : <a href="https://fr.tuto.com/php/php-formation-complete-php,64171.html" target="_blank">Tuto PHP : Formation complète avec Php</a></small>
